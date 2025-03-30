@@ -21,7 +21,7 @@ Nested Folder Generator creates hierarchical directory structures based on confi
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/nested-folder-generator.git
+git clone https://github.com/pilot2254/nested-folder-generator.git
 
 # Navigate to the project directory
 cd nested-folder-generator
